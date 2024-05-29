@@ -1,5 +1,7 @@
 # Welcome to Cora repository
 
+
+A metadata-driven platform for handling structured metadata and files, offered through an extensive API with access to the stored data, definitions and presentations, enabling independent clients.
 <!--
 
 **Here are some ideas to get you started:**
