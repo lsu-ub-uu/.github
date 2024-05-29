@@ -1,4 +1,4 @@
-## Welcome to Cora repository
+# Welcome to Cora repository
 
 <!--
 
