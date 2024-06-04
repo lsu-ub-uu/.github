@@ -6,7 +6,8 @@ A metadata-driven platform for handling structured metadata and files, offered t
 Preview JsClient: https://cora.epc.ub.uu.se/systemone/jsclient/
 Preview Fitnesse: https://cora.epc.ub.uu.se/fitnesse/
 
-Contact as at: https://www.uu.se/kontakt-och-organisation/personal?query=N19-1280
+Contact as at: https://www.uu.se/kontakt-och-organisation/personal?query=N19-1280 or https://www.uu.se/kontakt-och-organisation/personal?query=N1-1268
+
 
 <!--
 
