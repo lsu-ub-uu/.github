@@ -2,7 +2,7 @@
 
 ### Summary of Cora
 
-**What is Cora?** Cora is a metadata-driven platform designed for managing structured metadata and files. It offers an extensive API that provides access to stored data, definitions, and presentations, allowing for independent client operations.
+**What is Cora?** Cora is a metadata-driven generic open repository system designed for managing structured metadata and files. It offers an extensive API that provides access to stored data, definitions, and presentations, allowing for independent client operations.
 
 **Goals of Cora** APIs - External access to complete records, enable automation of data changes, integration with other systems, support for various clients. Data Maintainability - Simplifies changes to data structures without requiring developers, ensures system changes do not necessitate client updates, maintains easy synchronization with format specifications. System Maintainability - Designed for long-term use, easily extendable with new functionalities, ensures all components are up to date, open source code.
 
