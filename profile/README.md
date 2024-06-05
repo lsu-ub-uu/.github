@@ -1,12 +1,18 @@
-# Welcome to Cora repository
+# Welcome to Cora
 
+### Summary of Cora
 
-A metadata-driven platform for handling structured metadata and files, offered through an extensive API with access to the stored data, definitions and presentations, enabling independent clients.
+**What is Cora?** Cora is a metadata-driven platform designed for managing structured metadata and files. It offers an extensive API that provides access to stored data, definitions, and presentations, allowing for independent client operations.
+
+**Goals of Cora** APIs - External access to complete records, enable automation of data changes, integration with other systems, support for various clients. Data Maintainability - Simplifies changes to data structures without requiring developers, ensures system changes do not necessitate client updates, maintains easy synchronization with format specifications. System Maintainability - Designed for long-term use, easily extendable with new functionalities, ensures all components are up to date, open source code.
+
+**Pillars of Cora** REST-API - Provides access to all system functions, allows data access in its stored format with actions, supports functions like search and index, operates statelessly. Metadata-Driven System - Facilitates easy changes to definitions, validates incoming data against definitions, updates machine-readable definitions of the system, supports presentations for generic clients, managed with rights. System Architecture / Code - Data-centric approach, modular and test-friendly, maintains clean architecture and code. Common Format - Supports JSON and XML, uses Cora format and system-specific specifications like DiVA.
+
 
 Preview JsClient: https://cora.epc.ub.uu.se/systemone/jsclient/
 Preview Fitnesse: https://cora.epc.ub.uu.se/fitnesse/
 
-Contact as at: https://www.uu.se/kontakt-och-organisation/personal?query=N19-1280 or https://www.uu.se/kontakt-och-organisation/personal?query=N1-1268
+Contact person: https://www.uu.se/kontakt-och-organisation/personal?query=N19-1280 or https://www.uu.se/kontakt-och-organisation/personal?query=N1-1268
 
 
 <!--
